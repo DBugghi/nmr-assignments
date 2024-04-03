@@ -9,7 +9,7 @@ const usr = (<img src={usrr} style={{widht:100, height:100}}></img>);
 
 const Header = () => (
     <div id="container">
-        XYZ
+        <div>XYZ</div>
     </div>
 );
 
